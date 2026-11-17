@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QMS Verity | Digital Trust Infrastructure</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#090817;color:#fff;font-family:Arial,sans-serif;line-height:1.7}
+header{padding:25px 8%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #292344}
+.logo{font-size:22px;font-weight:bold;color:#9878ff}
+nav a{color:#ccc;text-decoration:none;margin-left:20px;font-size:13px}
+.hero{padding:100px 8%;text-align:center;background:radial-gradient(circle at center,#302064,#090817 70%)}
+.tag{color:#a994ff;letter-spacing:3px;font-size:12px}
+h1{font-size:48px;line-height:1.2;max-width:800px;margin:20px auto}
+h1 span{color:#9878ff}
+.hero p{max-width:650px;margin:20px auto;color:#c2bfd3}
+.btn{display:inline-block;background:#7955ed;color:white;padding:13px 25px;border-radius:5px;text-decoration:none;margin-top:20px}
+section{padding:65px 8%}
+h2{font-size:30px}
+.muted{color:#aaa}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+.card{background:#151329;border:1px solid #30294d;padding:25px;border-radius:10px}
+.card h3{color:#a994ff}
+footer{text-align:center;padding:30px;color:#999;border-top:1px solid #292344}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">◈ QMS VERITY</div>
+<nav><a href="#about">About</a><a href="#vision">Vision</a><a href="#roadmap">Roadmap</a></nav>
+</header>
+
+<div class="hero">
+<div class="tag">BUILDING TRUST FOR THE POST-QUANTUM ERA</div>
+<h1>Redefining Digital Trust for a <span>New Generation</span></h1>
+<p>Exploring decentralized verification, data integrity, and digital authenticity through the QMS ecosystem.</p>
+<a class="btn" href="#about">Explore Our Vision</a>
+</div>
+
+<section id="about">
+<h2>About QMS Verity</h2>
+<p class="muted">QMS Verity is an independent project concept exploring how decentralized technology can help people and organizations establish greater trust in digital information.</p>
+</section>
+
+<section id="vision">
+<h2>Our Vision</h2>
+<div class="cards">
+<div class="card"><h3>Digital Identity</h3><p class="muted">Explore decentralized approaches to digital identity verification.</p></div>
+<div class="card"><h3>Data Integrity</h3><p class="muted">Explore ways to verify the authenticity and integrity of digital records.</p></div>
+<div class="card"><h3>Post-Quantum Security</h3><p class="muted">Investigate security approaches designed for the post-quantum era.</p></div>
+</div>
+</section>
+
+<section id="roadmap">
+<h2>Development Roadmap</h2>
+<div class="cards">
+<div class="card"><h3>Phase 1</h3><p class="muted">Research and concept development.</p></div>
+<div class="card"><h3>Phase 2</h3><p class="muted">Explore QMS integration and build an initial prototype.</p></div>
+<div class="card"><h3>Phase 3</h3><p class="muted">Testing, community feedback, and future development.</p></div>
+</div>
+</section>
+
+<footer>
+<p>QMS VERITY | Independent Builder Project Concept</p>
+<p>Exploring a more trustworthy digital future.</p>
+</footer>
+</body>
+</html>
